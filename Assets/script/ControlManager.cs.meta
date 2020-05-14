@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: c0a7d05efbc4cb847ac874bcc89250ae
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - GameOver: {instanceID: 0}
+  - GamePanel: {instanceID: 0}
+  - PausePanel: {instanceID: 0}
+  - player: {instanceID: 0}
+  - Obstacle: {instanceID: 0}
+  - pauseButton: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
